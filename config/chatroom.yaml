@@ -1,0 +1,14 @@
+sensitive:
+  - 坏蛋
+  - 坏人
+  - 发票
+  - 傻子
+  - 傻大个
+  - 傻人
+  - 傻逼
+
+offline-num: 10
+
+token-secret: 1zrvOpl5u14Y
+
+message-queue: 1024
